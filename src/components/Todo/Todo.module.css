@@ -1,0 +1,18 @@
+.todo
+{
+width:360px;
+padding: 16px;
+background-color: blueviolet;
+color: white;
+font-size: 24px;
+box-shadow: 0px 4px 8px rgba(0,0,0,0.16);
+margin-bottom: 10px;
+
+}
+.icon
+{
+  float: right;
+  cursor: pointer;
+  color: red;
+
+}
